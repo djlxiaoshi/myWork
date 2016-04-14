@@ -9,3 +9,5 @@
 
 模拟Windows窗口：http://htmlpreview.github.io/?https://github.com/djlxiaoshi/drag/blob/master/index.html
 
+flex布局（骰子）：http://htmlpreview.github.io/?https://github.com/djlxiaoshi/flex/blob/master/index.html
+
